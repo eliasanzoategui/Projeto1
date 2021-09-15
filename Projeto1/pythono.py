@@ -1,3 +1,3 @@
 
 
-# 0la
+print('bom dia')
